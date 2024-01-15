@@ -1,7 +1,7 @@
 {
-  "Title": "Test",
-  "Description": "Test Message",
+  "Title": "Novidades",
+  "Description": "• Correções de bugs\n• Novas funções",
   "MainTextButton": "Update",
   "DownloadLink": "www.example.com",
-  "Version": "1.1"
+  "Version": "1.0"
 }
